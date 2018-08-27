@@ -1,3 +1,3 @@
 console.log(name)
-var inxdex = require("./index.js")
+var inxex = require("./index.js")
 
